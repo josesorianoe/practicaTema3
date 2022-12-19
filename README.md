@@ -72,33 +72,33 @@
     <h1>Menú principal</h1>
     <p>Al inciar el programa, nos encotraremos con el menú principal, en el que seleccionaremos las opciones deseadas
         tecleando el número correspondiente</p>
-    <p><img src="capturasPantalla/menuPrincipal.png"></p>
+    <p><img src="practicaTema3/capturasPantalla/menuPrincipal.png"></p>
     <h2>Registrarse</h2>
     <p>En esta sección, podremos registrarnos mediante una dirección e-mail que se haya registrado previamente.</p>
     <p>Una vez comprobado que el e-mail introducido no está registrado con anterioridad, deberemos introducir los
         siguientes datos:</p>
-    <p><img src="capturasPantalla/registro1.png"></p>
+    <p><img src="practicaTema3/capturasPantalla/registro1.png"></p>
     <p>A continuación, elegiremos la función que tendrá el perfil. De ambas opciones, solo podrá haber dos perfiles
         registrados de cada tipo</p>
-    <p><img src="capturasPantalla/registro2.png"></p>
+    <p><img src="practicaTema3/capturasPantalla/registro2.png"></p>
     <p>Una vez elegida, se nos mostrará el perfil creado, con un código generado y asociado al perfil</p>
-    <p><img src="capturasPantalla/registro3.png"></p>
+    <p><img src="practicaTema3/capturasPantalla/registro3.png"></p>
     <br>
     <h2>Inciciar sesión</h2>
     <p>Al elegir esta opción podremos iniciar sesión en nuestro perfil. Para ello, deberemos introducir nuestro nombre
         de usuario ("pablez") y contraseña ("5678")</p>
-    <p><img src="capturasPantalla/inicioSesion.png"></p>
+    <p><img src="practicaTema3/capturasPantalla/inicioSesion.png"></p>
     <h3>Perfil de propietario</h3>
-    <p><img src="capturasPantalla/menuPropietario1.png"></p>
+    <p><img src="practicaTema3/capturasPantalla/menuPropietario1.png"></p>
     <br>
     <h3>Ver viviendas en alquiler</h3>
     <p>Si el propietario tiene registrado una vivienda, este podrá ver los datos de esta</p>
-    <p><img src="capturasPantalla/menuPropietario2.png"></p>
+    <p><img src="practicaTema3/capturasPantalla/menuPropietario2.png"></p>
     <br>
     <h3>Añadir una vivienda</h3>
     <p>Aquí podremos registrar una vivienda rellenando estos datos. <strong>UN PROPIETARIO SOLO PUEDE TENER REGISTRADA
             UNA VIVIENDA</strong></p>
-    <p><img src="capturasPantalla/menuPropietario3.png"></p>
+    <p><img src="practicaTema3/capturasPantalla/menuPropietario3.png"></p>
     <br>
     <h3>Eliminar una vivienda</h3>
     <p>Si el usuario tiene registrada una vivienda, está será borrada</p>
@@ -113,17 +113,17 @@
     <br>
     <h3>Ver mi perfil</h3>
     <p>Aquí podemos ver la información del perfil</p>
-    <p><img src="capturasPantalla/menuPropietario4.png"></p>
+    <p><img src="practicaTema3/capturasPantalla/menuPropietario4.png"></p>
     <br>
     <h3>Modificar mi perfil</h3>
     <p>Aquí podemos modificar los distintos datos del perfil</p>
-    <p><img src="capturasPantalla/menuPropietario5.png"></p>
+    <p><img src="practicaTema3/capturasPantalla/menuPropietario5.png"></p>
     <br>
     <h3>Cerrar sesión</h3>
     <p>Cierra la sesión y vuelve al menú principal</p>
     <br>
     <h3>Perfil de usuario</h3>
-    <p><img src="capturasPantalla/menuUsuario1.png"></p>
+    <p><img src="practicaTema3/capturasPantalla/menuUsuario1.png"></p>
     <br>
     <h3>Búsqueda de alojamientos <em>TODO</em></h3>
     <p>En esta opción buscaremos alojamientos que estén libres introduciendo la localidad, fecha de entrada, número de
@@ -131,24 +131,24 @@
     <br>
     <h3>Ver mis reservas <em>TODO</em></h3>
     <p>Aquí podemos ver las reservas que hemos realizado (máximo 2)</p>
-    <p><img src="capturasPantalla/menuUsuario2.png"></p>
+    <p><img src="practicaTema3/capturasPantalla/menuUsuario2.png"></p>
     <br>
     <h3>Tanto la opción de ver el perfil, modificar perfil y cerrar sesión son las mismas que en el anterior menú</h3>
     <br>
     <h3>Perfil de administrador</h3>
-    <p><img src="capturasPantalla/menuAdmin1.png"></p>
+    <p><img src="practicaTema3/capturasPantalla/menuAdmin1.png"></p>
     <br>
     <h3>Ver todas las viviendas en alquiler</h3>
     <p>Muestra todas las viviendas registradas (máximo 2)</p>
-    <p><img src="capturasPantalla/menuPropietario2.png"></p>
+    <p><img src="practicaTema3/capturasPantalla/menuPropietario2.png"></p>
     <br>
     <h3>Ver todos los perfiles</h3>
     <p>Muestra todas los perfiles registrados (máximo 2 usuarios y 2 propietarios)</p>
-    <p><img src="capturasPantalla/menuAdmin2.png"></p>
+    <p><img src="practicaTema3/capturasPantalla/menuAdmin2.png"></p>
     <br>
     <h3>Ver todas las reservas del sistema</h3>
     <p>Muestra las reservas realizadas actualmente (máximo 2 por vivienda)</p>
-    <p><img src="capturasPantalla/menuAdmin3.png"></p>
+    <p><img src="practicaTema3/capturasPantalla/menuAdmin3.png"></p>
     <br>
     <h3>Tanto la opción de ver el perfil, modificar perfil y cerrar sesión son las mismas que en los demás perfiles</h3>
     <br>
