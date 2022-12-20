@@ -106,10 +106,9 @@
     <h3>Editar una vivienda</h3>
     <p>Aquí podremos modificar los mismos datos que introdujimos al crear la vivienda</p>
     <br>
-    <h3>Establecer un periodo de no disponible para una vivienda. <em>TODO</em></h3>
+    <h3>Establecer un periodo de no disponible para una vivienda</h3>
     <p>Aquí podremos asignar un periodo de dos fechas (con formato dd/mm/yyyy) en el que se creará una reserva para la
         vivienda. Si dicha vivienda ya tiene dos reservas, no podrá realizarse otra más</p>
-
     <br>
     <h3>Ver mi perfil</h3>
     <p>Aquí podemos ver la información del perfil</p>
