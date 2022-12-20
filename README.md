@@ -109,8 +109,8 @@
     <h3>Establecer un periodo de no disponible para una vivienda</h3>
     <p>Aquí deberemos asignar una fecha de inicio (con formato dd/mm/yyyy) y un número de noches para crear una reserva propia para la
         vivienda. Si dicha vivienda ya tiene dos reservas, no podrá realizarse otra más</p>
-        <p><img src="practicaTema3/capturasPantalla/menuPropietario6"></p>
-        <p><img src="practicaTema3/capturasPantalla/menuPropietario7"></p>
+        <p><img src="practicaTema3/capturasPantalla/menuPropietario6.png"></p>
+        <p><img src="practicaTema3/capturasPantalla/menuPropietario7.png"></p>
     <br>
     <h3>Ver mi perfil</h3>
     <p>Aquí podemos ver la información del perfil</p>
