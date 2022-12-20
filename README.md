@@ -29,7 +29,7 @@
                             <ol>
                                 <li><a href="#17">Buscar alojamientos</li>
                                 <li><a href="#18">Ver reservas realizadas</li>
-                                <li>Cancelar reservas <em>Pendiente</em></li>
+                                <li>Cancelar reservas</li>
                                 <li><a href="#19">Ver datos del perfil</li>
                                 <li><a href="#19">Modificar datos del perfil</li>
                                 <li><a href="#19">Cerrar sesión</li>
